@@ -23,12 +23,12 @@ PC: 4000
 
 ## Actividad 4: (C) 8 Píxeles, de colores distintos
 ```
-21 43 77 22 00 C8 18 FE
+21 DA DA 22 00 C0 18 FE
 ```
 PC: 4000
 ## Actividad 5: (CC) Patrón libre de color de al menos 80 píxeles
 ```
-21 43 77 22 00 C8 18 FE
+Cerré winape sin querer y se borró el código pero tengo la captura
 ```
 PC: 4000
 
@@ -37,3 +37,5 @@ Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/pixelrojo.png)
 ![Actividad 2](/pixel4.png)
 ![Actividad 3](/pixel2.png)
+![Actividad 4](/pixel1.png)
+![Actividad 5](/pixel80.png)
