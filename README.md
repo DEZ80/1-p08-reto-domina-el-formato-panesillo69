@@ -17,7 +17,7 @@ PC: 4000
 
 ## Actividad 3: (C) 12 Píxeles en grupos de 2 del mismo color
 ```
-21 43 77 22 00 C8 18 FE
+3E CF 32 00 C0 21 CF CF 22 01 C0 3E C0 32 03 C0 18 FE
 ```
 PC: 4000
 
@@ -36,3 +36,4 @@ PC: 4000
 Si quieres, puedes subir pantallazos y enlazarlos aquí.
 ![Actividad 1](/pixelrojo.png)
 ![Actividad 2](/pixel4.png)
+![Actividad 3](/pixel2.png)
